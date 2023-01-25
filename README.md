@@ -1,4 +1,5 @@
-### Hi there 👋
+### SeungJI_An (안승지)
+## FrontEnd Student
 
 <!--
 **s-ja/s-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
