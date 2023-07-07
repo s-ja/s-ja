@@ -1,5 +1,7 @@
 # SeungJI_An (안승지)
  - FrontEnd Student
+ - [velog](https://velog.io/@s-ja)
+ - [youtube(keyboard)](https://www.youtube.com/@2oo9hood78)
 
 <!--
 **s-ja/s-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
