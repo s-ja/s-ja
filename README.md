@@ -1,6 +1,10 @@
 # SeungJI_An (안승지)
 ## FrontEnd developer
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+
  - [velog](https://velog.io/@s-ja)
  - [youtube(keyboard)](https://www.youtube.com/@2oo9hood78)
 
