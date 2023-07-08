@@ -4,10 +4,6 @@
 
 <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-
- - [velog](https://velog.io/@s-ja)
- - [youtube(keyboard)](https://www.youtube.com/@2oo9hood78)
-
 <!--
 **s-ja/s-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
