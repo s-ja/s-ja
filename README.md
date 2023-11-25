@@ -1,6 +1,5 @@
 # An SeungJI (안승지)
 
-## Front End developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ja&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ja&layout=compact)](https://github.com/s-ja/github-readme-stats)
 
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
