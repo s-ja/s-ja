@@ -1,5 +1,5 @@
 # An SeungJI
-## 안승지
+안승지
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ja&show_icons=true&theme=dracula)
 
