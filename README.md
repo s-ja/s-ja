@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=An%20seung%20ji&reversal=false&textBg=false&fontAlign=50&desc=frontEnd%20engineer)
+# Seung ji, An
+안승지
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ja&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ja&layout=compact)](https://github.com/s-ja/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-ja&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ja&layout=compact)](https://github.com/s-ja/github-readme-stats)
 
 ## 🛠 Tech stack
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
