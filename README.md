@@ -1,5 +1,5 @@
-# Seung ji, An
-> 안승지
-## [Portfolio](https://portfolio-first-commit.vercel.app/)
-## 📫 Contacts
-- Email: ansj8777@gmail.com
+# FrontEnd Designer
+> An SeungJi_안승지
+
+[Portfolio](https://portfolio-first-commit.vercel.app/)</br>
+[Email](ansj8777@gmail.com)
